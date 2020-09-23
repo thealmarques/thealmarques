@@ -38,6 +38,9 @@ Hi, I'm André Marques, a Full Stack Developer 🚀 from Portugal, currently wor
 
 <details>
   <summary>📈 My GitHub Stats</summary>
+  
+  <br />
+  
   <a href="https://github.com/thealmarques/thealmarques">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealmarques&hide=swift,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
