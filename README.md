@@ -9,6 +9,9 @@
 <a href="https://www.linkedin.com/in/andrelemosm/">
   <img align="left" alt="Andr'e Marques's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://codepen.io/thealmarques/">
+  <img align="left" alt="Andr'e Marques's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+</a>
 
 <br />
 <br />
