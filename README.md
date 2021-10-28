@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm André Marques, a Full Stack Developer 🚀 from Portugal, currently working at Sky. I have a special interest in web development where I'm always trying to learn new things.
+Hi, I'm André Marques, a Full Stack Developer 🚀 from Portugal, currently working at Sky. I have a special interest in web development where I'm always trying to learn new skills.
 
 <br />
 
